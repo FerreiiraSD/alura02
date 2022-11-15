@@ -1,0 +1,59 @@
+.quem-somos-titulo {
+    color: #8d0606;
+    font-size: 3.1875rem;
+    font-family: Pacifico, cursive;
+    margin-bottom: 1rem;
+}
+
+.quem-somos {
+    padding: 5rem;
+    text-align: center;
+}
+
+.quem-somos-descricao {
+    color: #595959;
+    font-weight: 100;
+    font-size: 1.75rem;
+}
+
+.pessoa-nome {
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.pessoa-funcao {
+    color: #595959;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.25rem;
+    text-transform: lowercase;
+}
+
+.pessoas {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+.pessoa-imagem {
+    background: red;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 100%;
+}
+.pessoa-imagem-roberta {
+    background-image: url('../img/pessoas/roberta.jpg');
+
+}
+
+.pessoa-imagem-marcela {
+    background-image: url('../img/pessoas/marcela.jpg');
+
+}
+
+.pessoa-imagem-andreia {
+    background-image: url("../img/pessoas/andreia.jpg");
+}

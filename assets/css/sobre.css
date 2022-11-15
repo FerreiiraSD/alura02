@@ -1,0 +1,21 @@
+.sobre {
+    height: 50vh;
+    position: relative;
+    text-align: center;
+}
+
+.sobre-centro {
+    position: absolute;
+    top: calc(50% - 15%);
+    width: 100%;
+}
+
+.sobre-titulo {
+    color: #8d0606;
+    font-family: pacifico, cursive;
+}
+
+.sobre-descricao {
+    color: #595959;
+    font-weight: 100;
+}
